@@ -3,6 +3,14 @@ My data flows this way:
 
 twitter API <----producer--->Dynamodb <- Consumer
 
+
+
+
+```
+
+echo 2
+```
+
 I would like to figure out with this project how to:
 
 1. Get data out of Dynamodb.
